@@ -7,3 +7,7 @@
 meteor-platform
 autopublish
 insecure
+urigo:angular
+angular:angular-mocks
+sanjo:jasmine
+velocity:html-reporter
