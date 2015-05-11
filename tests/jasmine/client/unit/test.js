@@ -4,7 +4,7 @@ describe('MessageCtrl', function () {
     /*
      * Get a new controller before each test is executed
      */
-    var $controller, messages, $scope = {};
+    var $controller = {}, messages = {}, $scope = {};
     beforeEach(inject(function (_$controller_) {
         $controller = _$controller_;
     }));
